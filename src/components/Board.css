@@ -1,0 +1,25 @@
+.game {
+  color: brown;
+  margin-left: 80px;
+}
+
+.board {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  width: 96px;
+  margin: 30px;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  border: 1px solid brown;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+.start-game {
+  margin: 30px;
+}
