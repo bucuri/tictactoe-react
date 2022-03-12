@@ -1,5 +1,6 @@
 {
   "name": "tictactoe",
+  "homepage": "https://bucuri.github.io/tictactoe-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
