@@ -1,2 +1,0 @@
-body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}.game{color:brown;margin-left:80px}.board{background-color:#000;display:flex;flex-wrap:wrap;margin:30px;width:96px}.square{border:1px solid brown;cursor:pointer;height:30px;line-height:30px;text-align:center;width:30px}.start-game{margin:30px}
-/*# sourceMappingURL=main.b6cd0d10.css.map*/
